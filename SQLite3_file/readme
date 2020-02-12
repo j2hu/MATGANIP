@@ -1,0 +1,7 @@
+in the SQLite3
+database_name:MATGANIP_E
+table_name: train; test
+the information contained in the table:
+1. flag: give a lable related to the floder of POSCAR
+2. the data about POSCAR
+3. energy value with the units of eV and eV per atom
