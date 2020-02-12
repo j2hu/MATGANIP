@@ -1,0 +1,3 @@
+containing the result predicted by MATGANIP.E and DFT calculation
+in the training of MATGANIP.e, we perform a linear tranformation for the DFT results
+to evaluate the performance of MATGANIP.e with the unit of eV per atom, we perform its inverse transformation for the predictive results and divide this value by the amount of atoms in the supercell.
